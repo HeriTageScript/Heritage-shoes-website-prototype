@@ -6,7 +6,7 @@ body{
 }
 .section1{
     height: 50%;
-    background-image:url('/IMG-20231228-WA0061.jpg') ;
+    background-image:url('IMG-20231228-WA0061.jpg') ;
     background-repeat: no-repeat;
     background-size: cover;
 }
